@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="343ca3e9-ee66-4efa-81bd-17379d610a5c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1486731215">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="0-SNAPSHOT" value="1" />
+          <entry key="class" value="15" />
+          <entry key="java" value="7" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="15" />
+          <entry key="JAVA" value="7" />
+          <entry key="UML" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2615" />
+          <entry key="xml" value="105" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2615" />
+          <entry key="XML" value="105" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/info/theswamp/bigtable/ReadBTAggregate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="530">
+              <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>glass</find>
+      <find>bigtab</find>
+      <find>split</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/dev/github/beam" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/info/theswamp/bigtable/SalesCountBigTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/info/theswamp/bigtable/SDF.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/hbase-site.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/info/theswamp/bigtable/ReadBT.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/info/theswamp/bigtable/ReadBTAggregate.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bigtable-read" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bigtable-read" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bigtable-read" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="com.google.cloud.bigdataoss:gcs-connector:1.9.4-hadoop3" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bigtable-read" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="com.google.cloud.bigdataoss:gcs-connector:1.9.4-hadoop3" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="com.google.oauth-client:google-oauth-client:1.24.1" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bigtable-read" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="com.google.cloud.bigdataoss:gcs-connector:1.9.4-hadoop3" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="com.google.oauth-client:google-oauth-client:1.24.1" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="com.google.http-client:google-http-client:1.24.1" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1276" />
+    <option name="y" value="32" />
+    <option name="width" value="1288" />
+    <option name="height" value="958" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bigtableread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigtable_spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigtableread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigtable_spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigtableread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigtable_spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigtableread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigtable_spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigtableread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigtable_spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bigtable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigtableread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigtable_spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigtableread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigtable_spark" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigtableread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540392451681" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="343ca3e9-ee66-4efa-81bd-17379d610a5c" name="Default Changelist" comment="" />
+      <created>1540285263726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540285263726</updated>
+      <workItem from="1540285312649" duration="2788000" />
+      <workItem from="1540303138610" duration="4504000" />
+      <workItem from="1540370256566" duration="17653000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24945000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1276" y="32" width="1288" height="958" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.26337114" />
+      <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.24959481" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49918962" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="8" sideWeight="0.5008104" side_tool="true" visible="true" weight="0.06746988" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" sideWeight="0.49918962" weight="0.32891566" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="IvyIDEA" order="12" sideWeight="0.49918962" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24959481" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.1815235" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://MAVEN/info.theswamp.bigtable:bigtable-read:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>info.theswamp.bigtable:bigtable-read:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">info.theswamp.bigtable:bigtable-read:1.0-SNAPSHOT</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/com.google.cloud.bigtable:bigtable-hbase-1.x-hadoop:jar:1.4.0</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/com.google.cloud.bigtable:bigtable-hbase-1.x-hadoop:jar:1.4.0/org.apache.hbase:hbase-client:jar:1.4.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/com.google.cloud.bigtable:bigtable-hbase-1.x-hadoop:jar:1.4.0/org.apache.hbase:hbase-client:jar:1.4.3/org.apache.hbase:hbase-annotations:jar:1.4.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/com.google.cloud.bigtable:bigtable-hbase-1.x-hadoop:jar:1.4.0/org.apache.hbase:hbase-client:jar:1.4.3/org.jruby.jcodings:jcodings:jar:1.0.8</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/com.google.cloud.bigtable:bigtable-hbase-1.x-hadoop:jar:1.4.0/org.apache.hbase:hbase-client:jar:1.4.3/org.jruby.joni:joni:jar:2.1.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/com.google.cloud.bigtable:bigtable-hbase-1.x-hadoop:jar:1.4.0/com.google.code.findbugs:jsr305:jar:3.0.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/com.google.cloud.bigtable:bigtable-hbase-1.x-hadoop:jar:1.4.0/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/com.google.cloud.bigtable:bigtable-hbase-1.x-hadoop:jar:1.4.0/io.dropwizard.metrics:metrics-core:jar:3.1.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/com.google.cloud.bigtable:bigtable-hbase-1.x-hadoop:jar:1.4.0/io.dropwizard.metrics:metrics-core:jar:3.1.2/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hbase:hbase-common:jar:1.4.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hbase:hbase-common:jar:1.4.3/org.apache.avro:avro:jar:1.7.7</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hbase:hbase-common:jar:1.4.3/org.apache.avro:avro:jar:1.7.7/com.thoughtworks.paranamer:paranamer:jar:2.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hbase:hbase-common:jar:1.4.3/org.apache.avro:avro:jar:1.7.7/org.xerial.snappy:snappy-java:jar:1.0.5</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hbase:hbase-common:jar:1.4.3/org.apache.avro:avro:jar:1.7.7/org.slf4j:slf4j-api:jar:1.6.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hbase:hbase-common:jar:1.4.3/com.github.stephenc.findbugs:findbugs-annotations:jar:1.3.9-1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hbase:hbase-protocol:jar:1.4.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hbase:hbase-procedure:jar:1.4.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hbase:hbase-procedure:jar:1.4.3/org.apache.hbase:hbase-common:jar:tests:1.4.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hbase:hbase-prefix-tree:jar:1.4.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hbase:hbase-metrics-api:jar:1.4.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hbase:hbase-metrics:jar:1.4.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/commons-httpclient:commons-httpclient:jar:3.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/commons-httpclient:commons-httpclient:jar:3.1/commons-logging:commons-logging:jar:1.0.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/commons-httpclient:commons-httpclient:jar:3.1/commons-codec:commons-codec:jar:1.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/commons-codec:commons-codec:jar:1.9</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/commons-collections:commons-collections:jar:3.2.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hbase:hbase-hadoop-compat:jar:1.4.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hbase:hbase-hadoop2-compat:jar:1.4.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/com.yammer.metrics:metrics-core:jar:2.2.0</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/com.yammer.metrics:metrics-core:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/com.google.guava:guava:jar:12.0.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/com.google.protobuf:protobuf-java:jar:2.5.0</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/com.sun.jersey:jersey-core:jar:1.9</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/com.sun.jersey:jersey-server:jar:1.9</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/com.sun.jersey:jersey-server:jar:1.9/asm:asm:jar:3.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/commons-cli:commons-cli:jar:1.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/commons-io:commons-io:jar:2.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/commons-lang:commons-lang:jar:2.6</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.commons:commons-math:jar:2.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/log4j:log4j:jar:1.2.17</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.zookeeper:zookeeper:jar:3.4.10</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.zookeeper:zookeeper:jar:3.4.10/org.slf4j:slf4j-api:jar:1.6.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.zookeeper:zookeeper:jar:3.4.10/org.slf4j:slf4j-log4j12:jar:1.6.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.zookeeper:zookeeper:jar:3.4.10/log4j:log4j:jar:1.2.16</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.mortbay.jetty:jetty:jar:6.1.26</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.mortbay.jetty:jetty-util:jar:6.1.26</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.mortbay.jetty:jetty-sslengine:jar:6.1.26</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.mortbay.jetty:jsp-2.1:jar:6.1.14</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.mortbay.jetty:jsp-api-2.1:jar:6.1.14</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.mortbay.jetty:servlet-api-2.5:jar:6.1.14</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.codehaus.jackson:jackson-core-asl:jar:1.9.13</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.codehaus.jackson:jackson-jaxrs:jar:1.9.13</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/tomcat:jasper-compiler:jar:5.5.23</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/tomcat:jasper-runtime:jar:5.5.23</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/tomcat:jasper-runtime:jar:5.5.23/commons-el:commons-el:jar:1.0</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/tomcat:jasper-runtime:jar:5.5.23/commons-el:commons-el:jar:1.0/commons-logging:commons-logging:jar:1.0.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.jamon:jamon-runtime:jar:2.4.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/io.netty:netty-all:jar:4.1.8.Final</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.htrace:htrace-core:jar:3.1.0-incubating</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/com.lmax:disruptor:jar:3.3.0</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.httpcomponents:httpclient:jar:4.5.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.httpcomponents:httpcore:jar:4.4.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/org.apache.hadoop:hadoop-annotations:jar:2.7.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/org.apache.hadoop:hadoop-annotations:jar:2.7.4/jdk.tools:jdk.tools:jar:1.8</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/com.google.guava:guava:jar:11.0.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/org.apache.commons:commons-math3:jar:3.1.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/xmlenc:xmlenc:jar:0.52</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/commons-codec:commons-codec:jar:1.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/commons-net:commons-net:jar:3.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/com.sun.jersey:jersey-json:jar:1.9</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/com.sun.jersey:jersey-json:jar:1.9/org.codehaus.jettison:jettison:jar:1.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/com.sun.jersey:jersey-json:jar:1.9/com.sun.xml.bind:jaxb-impl:jar:2.2.3-1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/com.sun.jersey:jersey-json:jar:1.9/org.codehaus.jackson:jackson-core-asl:jar:1.8.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/com.sun.jersey:jersey-json:jar:1.9/org.codehaus.jackson:jackson-mapper-asl:jar:1.8.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/com.sun.jersey:jersey-json:jar:1.9/org.codehaus.jackson:jackson-jaxrs:jar:1.8.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/com.sun.jersey:jersey-json:jar:1.9/org.codehaus.jackson:jackson-xc:jar:1.8.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/com.sun.jersey:jersey-json:jar:1.9/org.codehaus.jackson:jackson-xc:jar:1.8.3/org.codehaus.jackson:jackson-core-asl:jar:1.9.13</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/com.sun.jersey:jersey-json:jar:1.9/org.codehaus.jackson:jackson-xc:jar:1.8.3/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/commons-logging:commons-logging:jar:1.1.3</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/net.java.dev.jets3t:jets3t:jar:0.9.0</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/net.java.dev.jets3t:jets3t:jar:0.9.0/commons-codec:commons-codec:jar:1.9</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/net.java.dev.jets3t:jets3t:jar:0.9.0/commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/net.java.dev.jets3t:jets3t:jar:0.9.0/org.apache.httpcomponents:httpclient:jar:4.1.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/net.java.dev.jets3t:jets3t:jar:0.9.0/org.apache.httpcomponents:httpcore:jar:4.1.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/net.java.dev.jets3t:jets3t:jar:0.9.0/com.jamesmurty.utils:java-xmlbuilder:jar:0.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/commons-configuration:commons-configuration:jar:1.6</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/commons-configuration:commons-configuration:jar:1.6/commons-collections:commons-collections:jar:3.2.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/commons-configuration:commons-configuration:jar:1.6/commons-lang:commons-lang:jar:2.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/commons-configuration:commons-configuration:jar:1.6/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8/commons-beanutils:commons-beanutils:jar:1.7.0</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8/commons-beanutils:commons-beanutils:jar:1.7.0/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8/commons-logging:commons-logging:jar:1.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/commons-configuration:commons-configuration:jar:1.6/commons-beanutils:commons-beanutils-core:jar:1.8.0</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/commons-configuration:commons-configuration:jar:1.6/commons-beanutils:commons-beanutils-core:jar:1.8.0/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/org.slf4j:slf4j-log4j12:jar:1.7.10</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/org.apache.avro:avro:jar:1.7.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/com.google.code.gson:gson:jar:2.2.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/com.jcraft:jsch:jar:0.1.54</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/org.apache.curator:curator-client:jar:2.7.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/org.apache.curator:curator-client:jar:2.7.1/org.slf4j:slf4j-api:jar:1.7.6</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/org.apache.curator:curator-client:jar:2.7.1/org.apache.zookeeper:zookeeper:jar:3.4.6</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/org.apache.curator:curator-client:jar:2.7.1/com.google.guava:guava:jar:16.0.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/org.apache.curator:curator-recipes:jar:2.7.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/org.apache.curator:curator-recipes:jar:2.7.1/org.apache.zookeeper:zookeeper:jar:3.4.10</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/org.apache.curator:curator-recipes:jar:2.7.1/com.google.guava:guava:jar:12.0.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/org.apache.zookeeper:zookeeper:jar:3.4.10</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/org.apache.commons:commons-compress:jar:1.4.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-common:jar:2.7.4/org.apache.commons:commons-compress:jar:1.4.1/org.tukaani:xz:jar:1.0</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-auth:jar:2.7.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-auth:jar:2.7.4/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-auth:jar:2.7.4/commons-codec:commons-codec:jar:1.9</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-auth:jar:2.7.4/org.slf4j:slf4j-log4j12:jar:1.6.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-auth:jar:2.7.4/org.apache.httpcomponents:httpclient:jar:4.2.5</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-auth:jar:2.7.4/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-auth:jar:2.7.4/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15/org.apache.directory.server:apacheds-i18n:jar:2.0.0-M15</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-auth:jar:2.7.4/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15/org.apache.directory.server:apacheds-i18n:jar:2.0.0-M15/org.slf4j:slf4j-api:jar:1.7.5</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-auth:jar:2.7.4/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15/org.apache.directory.api:api-asn1-api:jar:1.0.0-M20</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-auth:jar:2.7.4/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15/org.apache.directory.api:api-asn1-api:jar:1.0.0-M20/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-auth:jar:2.7.4/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15/org.apache.directory.api:api-util:jar:1.0.0-M20</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-auth:jar:2.7.4/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15/org.apache.directory.api:api-util:jar:1.0.0-M20/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-auth:jar:2.7.4/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-auth:jar:2.7.4/org.apache.zookeeper:zookeeper:jar:3.4.10</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-auth:jar:2.7.4/org.apache.curator:curator-framework:jar:2.7.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-auth:jar:2.7.4/org.apache.curator:curator-framework:jar:2.7.1/org.apache.zookeeper:zookeeper:jar:3.4.10</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-auth:jar:2.7.4/org.apache.curator:curator-framework:jar:2.7.1/com.google.guava:guava:jar:12.0.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.4/org.apache.hadoop:hadoop-yarn-client:jar:2.7.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.4/org.apache.hadoop:hadoop-yarn-client:jar:2.7.4/com.google.guava:guava:jar:12.0.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.4/org.apache.hadoop:hadoop-yarn-client:jar:2.7.4/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.4/org.apache.hadoop:hadoop-yarn-server-common:jar:2.7.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.4/org.apache.hadoop:hadoop-yarn-server-common:jar:2.7.4/com.google.guava:guava:jar:12.0.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.4/org.apache.hadoop:hadoop-yarn-server-common:jar:2.7.4/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.4/org.apache.hadoop:hadoop-yarn-server-common:jar:2.7.4/org.apache.zookeeper:zookeeper:jar:3.4.10</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.4/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.4/org.slf4j:slf4j-log4j12:jar:1.6.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.7.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.7.4/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.7.4/org.slf4j:slf4j-log4j12:jar:1.6.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.4/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.4/org.slf4j:slf4j-log4j12:jar:1.6.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-yarn-api:jar:2.7.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-yarn-api:jar:2.7.4/com.google.guava:guava:jar:12.0.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-yarn-api:jar:2.7.4/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.7.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.7.4/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-client:jar:2.7.4/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.7.4/org.slf4j:slf4j-log4j12:jar:1.6.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.apache.hadoop:hadoop-yarn-common:jar:2.7.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.apache.hadoop:hadoop-yarn-common:jar:2.7.4/javax.xml.bind:jaxb-api:jar:2.2.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.apache.hadoop:hadoop-yarn-common:jar:2.7.4/javax.xml.bind:jaxb-api:jar:2.2.2/javax.xml.stream:stax-api:jar:1.0-2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.apache.hadoop:hadoop-yarn-common:jar:2.7.4/javax.xml.bind:jaxb-api:jar:2.2.2/javax.activation:activation:jar:1.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.apache.hadoop:hadoop-yarn-common:jar:2.7.4/javax.servlet:servlet-api:jar:2.5</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.apache.hadoop:hadoop-yarn-common:jar:2.7.4/commons-codec:commons-codec:jar:1.9</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.apache.hadoop:hadoop-yarn-common:jar:2.7.4/com.sun.jersey:jersey-client:jar:1.9</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.apache.hadoop:hadoop-yarn-common:jar:2.7.4/org.codehaus.jackson:jackson-xc:jar:1.9.13</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.apache.hadoop:hadoop-yarn-common:jar:2.7.4/com.google.guava:guava:jar:12.0.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.apache.hadoop:hadoop-yarn-common:jar:2.7.4/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.apache.hadoop:hadoop-yarn-common:jar:2.7.4/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.apache.hadoop:hadoop-yarn-common:jar:2.7.4/com.google.inject:guice:jar:3.0</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.apache.hadoop:hadoop-yarn-common:jar:2.7.4/com.google.inject:guice:jar:3.0/javax.inject:javax.inject:jar:1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.apache.hadoop:hadoop-yarn-common:jar:2.7.4/com.google.inject:guice:jar:3.0/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.apache.hadoop:hadoop-yarn-common:jar:2.7.4/com.sun.jersey.contribs:jersey-guice:jar:1.9</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.apache.avro:avro:jar:1.7.7</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/org.slf4j:slf4j-log4j12:jar:1.6.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4/com.google.inject.extensions:guice-servlet:jar:3.0</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-hdfs:jar:2.7.4</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-hdfs:jar:2.7.4/com.google.guava:guava:jar:12.0.1</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-hdfs:jar:2.7.4/commons-codec:commons-codec:jar:1.9</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-hdfs:jar:2.7.4/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-hdfs:jar:2.7.4/commons-daemon:commons-daemon:jar:1.0.13</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-hdfs:jar:2.7.4/io.netty:netty-all:jar:4.0.23.Final</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/org.apache.hadoop:hadoop-hdfs:jar:2.7.4/org.fusesource.leveldbjni:leveldbjni-all:jar:1.8</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/junit:junit:jar:4.12</node>
+            <node x="" y="">com.google.cloud.bigtable:bigtable-hbase-mapreduce:jar:1.4.0/org.apache.hbase:hbase-server:jar:1.4.3/junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase.thirdparty:hbase-shaded-miscellaneous:jar:1.0.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/com.fasterxml.jackson.module:jackson-module-scala_2.10:jar:2.9.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/com.fasterxml.jackson.module:jackson-module-scala_2.10:jar:2.9.1/com.fasterxml.jackson.core:jackson-core:jar:2.9.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/com.fasterxml.jackson.module:jackson-module-scala_2.10:jar:2.9.1/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/com.fasterxml.jackson.module:jackson-module-scala_2.10:jar:2.9.1/com.fasterxml.jackson.core:jackson-databind:jar:2.9.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/com.fasterxml.jackson.module:jackson-module-scala_2.10:jar:2.9.1/com.fasterxml.jackson.core:jackson-databind:jar:2.9.1/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/com.fasterxml.jackson.module:jackson-module-scala_2.10:jar:2.9.1/com.fasterxml.jackson.module:jackson-module-paranamer:jar:2.9.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/com.fasterxml.jackson.module:jackson-module-scala_2.10:jar:2.9.1/com.fasterxml.jackson.module:jackson-module-paranamer:jar:2.9.1/com.thoughtworks.paranamer:paranamer:jar:2.8</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-hdfs:jar:2.7.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.1/org.apache.hadoop:hadoop-yarn-common:jar:2.7.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.1/org.apache.hadoop:hadoop-yarn-client:jar:2.7.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.1/org.apache.hadoop:hadoop-yarn-client:jar:2.7.1/com.google.guava:guava:jar:12.0.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.1/org.apache.hadoop:hadoop-yarn-client:jar:2.7.1/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.1/org.apache.hadoop:hadoop-yarn-client:jar:2.7.1/org.apache.hadoop:hadoop-yarn-common:jar:2.7.4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.1/org.apache.hadoop:hadoop-yarn-server-common:jar:2.7.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.1/org.apache.hadoop:hadoop-yarn-server-common:jar:2.7.1/org.apache.hadoop:hadoop-yarn-common:jar:2.7.4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.1/org.apache.hadoop:hadoop-yarn-server-common:jar:2.7.1/com.google.guava:guava:jar:12.0.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.1/org.apache.hadoop:hadoop-yarn-server-common:jar:2.7.1/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.1/org.apache.hadoop:hadoop-yarn-server-common:jar:2.7.1/org.apache.zookeeper:zookeeper:jar:3.4.10</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.7.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-yarn-api:jar:2.7.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-yarn-api:jar:2.7.1/com.google.guava:guava:jar:12.0.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-yarn-api:jar:2.7.1/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.7.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-client:jar:2.7.1/org.apache.hadoop:hadoop-annotations:jar:2.7.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/com.google.guava:guava:jar:12.0.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/org.apache.commons:commons-math3:jar:3.1.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/xmlenc:xmlenc:jar:0.52</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/commons-codec:commons-codec:jar:1.9</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/commons-io:commons-io:jar:2.5</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/commons-net:commons-net:jar:3.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/commons-collections:commons-collections:jar:3.2.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/com.sun.jersey:jersey-json:jar:1.9</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/com.sun.jersey:jersey-json:jar:1.9/org.codehaus.jettison:jettison:jar:1.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/com.sun.jersey:jersey-json:jar:1.9/com.sun.xml.bind:jaxb-impl:jar:2.2.3-1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/com.sun.jersey:jersey-json:jar:1.9/org.codehaus.jackson:jackson-core-asl:jar:1.8.3</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/com.sun.jersey:jersey-json:jar:1.9/org.codehaus.jackson:jackson-mapper-asl:jar:1.8.3</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/com.sun.jersey:jersey-json:jar:1.9/org.codehaus.jackson:jackson-jaxrs:jar:1.8.3</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/com.sun.jersey:jersey-json:jar:1.9/org.codehaus.jackson:jackson-xc:jar:1.8.3</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/com.sun.jersey:jersey-json:jar:1.9/org.codehaus.jackson:jackson-xc:jar:1.8.3/org.codehaus.jackson:jackson-core-asl:jar:1.9.13</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/com.sun.jersey:jersey-json:jar:1.9/org.codehaus.jackson:jackson-xc:jar:1.8.3/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/net.java.dev.jets3t:jets3t:jar:0.9.0</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/net.java.dev.jets3t:jets3t:jar:0.9.0/commons-codec:commons-codec:jar:1.9</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/net.java.dev.jets3t:jets3t:jar:0.9.0/commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/net.java.dev.jets3t:jets3t:jar:0.9.0/org.apache.httpcomponents:httpclient:jar:4.1.2</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/net.java.dev.jets3t:jets3t:jar:0.9.0/org.apache.httpcomponents:httpcore:jar:4.1.2</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/net.java.dev.jets3t:jets3t:jar:0.9.0/com.jamesmurty.utils:java-xmlbuilder:jar:0.4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/commons-configuration:commons-configuration:jar:1.6</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/commons-configuration:commons-configuration:jar:1.6/commons-collections:commons-collections:jar:3.2.2</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/commons-configuration:commons-configuration:jar:1.6/commons-lang:commons-lang:jar:2.4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/commons-configuration:commons-configuration:jar:1.6/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8/commons-beanutils:commons-beanutils:jar:1.7.0</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8/commons-beanutils:commons-beanutils:jar:1.7.0/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8/commons-logging:commons-logging:jar:1.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/commons-configuration:commons-configuration:jar:1.6/commons-beanutils:commons-beanutils-core:jar:1.8.0</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/commons-configuration:commons-configuration:jar:1.6/commons-beanutils:commons-beanutils-core:jar:1.8.0/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/org.slf4j:slf4j-log4j12:jar:1.7.10</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/org.apache.avro:avro:jar:1.7.7</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/com.google.code.gson:gson:jar:2.2.4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/org.apache.hadoop:hadoop-auth:jar:2.7.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/com.jcraft:jsch:jar:0.1.42</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/org.apache.curator:curator-client:jar:2.7.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/org.apache.curator:curator-client:jar:2.7.1/org.slf4j:slf4j-api:jar:1.7.6</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/org.apache.curator:curator-client:jar:2.7.1/org.apache.zookeeper:zookeeper:jar:3.4.10</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/org.apache.curator:curator-client:jar:2.7.1/com.google.guava:guava:jar:16.0.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/org.apache.curator:curator-recipes:jar:2.7.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/org.apache.curator:curator-recipes:jar:2.7.1/org.apache.curator:curator-framework:jar:4.0.0</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/org.apache.curator:curator-recipes:jar:2.7.1/org.apache.zookeeper:zookeeper:jar:3.4.10</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/org.apache.curator:curator-recipes:jar:2.7.1/com.google.guava:guava:jar:12.0.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/org.apache.zookeeper:zookeeper:jar:3.4.10</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/org.apache.commons:commons-compress:jar:1.4.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-common:jar:2.7.1/org.apache.commons:commons-compress:jar:1.4.1/org.tukaani:xz:jar:1.0</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-client:jar:2.0.0-alpha4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-client:jar:2.0.0-alpha4/org.apache.hbase.thirdparty:hbase-shaded-protobuf:jar:1.0.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-client:jar:2.0.0-alpha4/org.apache.hbase:hbase-hadoop-compat:jar:2.0.0-alpha4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-client:jar:2.0.0-alpha4/org.apache.hbase:hbase-hadoop2-compat:jar:2.0.0-alpha4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-client:jar:2.0.0-alpha4/commons-codec:commons-codec:jar:1.10</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-client:jar:2.0.0-alpha4/org.apache.commons:commons-lang3:jar:3.6</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-client:jar:2.0.0-alpha4/org.apache.hbase.thirdparty:hbase-shaded-netty:jar:1.0.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-client:jar:2.0.0-alpha4/org.apache.htrace:htrace-core:jar:3.2.0-incubating</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-client:jar:2.0.0-alpha4/org.jruby.jcodings:jcodings:jar:1.0.18</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-client:jar:2.0.0-alpha4/org.jruby.joni:joni:jar:2.1.11</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-client:jar:2.0.0-alpha4/org.jruby.joni:joni:jar:2.1.11/org.jruby.jcodings:jcodings:jar:1.0.13</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-client:jar:2.0.0-alpha4/io.dropwizard.metrics:metrics-core:jar:3.2.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-client:jar:2.0.0-alpha4/org.apache.curator:curator-framework:jar:4.0.0</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-client:jar:2.0.0-alpha4/org.apache.curator:curator-framework:jar:4.0.0/org.apache.curator:curator-client:jar:4.0.0</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-client:jar:2.0.0-alpha4/org.apache.curator:curator-client:jar:2.7.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-client:jar:2.0.0-alpha4/org.apache.commons:commons-crypto:jar:1.0.0</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-client:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-auth:jar:2.7.4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-protocol:jar:2.0.0-alpha4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-protocol-shaded:jar:2.0.0-alpha4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-annotations:jar:2.0.0-alpha4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-common:jar:2.0.0-alpha4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-common:jar:2.0.0-alpha4/commons-codec:commons-codec:jar:1.9</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-common:jar:2.0.0-alpha4/org.apache.commons:commons-collections4:jar:4.1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-common:jar:2.0.0-alpha4/org.apache.htrace:htrace-core:jar:3.1.0-incubating</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-common:jar:2.0.0-alpha4/commons-cli:commons-cli:jar:1.4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-common:jar:2.0.0-alpha4/com.github.stephenc.findbugs:findbugs-annotations:jar:1.3.9-1</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-server:jar:2.0.0-alpha4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-mapreduce:jar:2.0.0-alpha4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-mapreduce:jar:2.0.0-alpha4/org.apache.hbase:hbase-metrics:jar:2.0.0-alpha4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-mapreduce:jar:2.0.0-alpha4/org.apache.hbase:hbase-metrics-api:jar:2.0.0-alpha4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-mapreduce:jar:2.0.0-alpha4/io.dropwizard.metrics:metrics-core:jar:3.1.2</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-mapreduce:jar:2.0.0-alpha4/org.slf4j:slf4j-api:jar:1.7.24</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-mapreduce:jar:2.0.0-alpha4/org.apache.hbase:hbase-prefix-tree:jar:2.0.0-alpha4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-mapreduce:jar:2.0.0-alpha4/org.apache.htrace:htrace-core:jar:3.1.0-incubating</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-mapreduce:jar:2.0.0-alpha4/org.apache.hbase:hbase-hadoop-compat:jar:1.4.3</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-mapreduce:jar:2.0.0-alpha4/org.apache.hbase:hbase-hadoop2-compat:jar:1.4.3</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-mapreduce:jar:2.0.0-alpha4/org.apache.hbase:hbase-server:jar:1.4.3</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-mapreduce:jar:2.0.0-alpha4/org.apache.hbase:hbase-replication:jar:2.0.0-alpha4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-mapreduce:jar:2.0.0-alpha4/commons-cli:commons-cli:jar:1.2</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-mapreduce:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-hdfs:jar:2.7.4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.hbase:hbase-mapreduce:jar:2.0.0-alpha4/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/com.google.protobuf:protobuf-java:jar:2.5.0</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/commons-io:commons-io:jar:2.5</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.avro:avro:jar:1.7.7</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.avro:avro:jar:1.7.7/com.thoughtworks.paranamer:paranamer:jar:2.3</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.avro:avro:jar:1.7.7/org.xerial.snappy:snappy-java:jar:1.0.5</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.avro:avro:jar:1.7.7/org.slf4j:slf4j-api:jar:1.6.4</node>
+            <node x="" y="">org.apache.hbase:hbase-spark:jar:2.0.0-alpha4/org.apache.yetus:audience-annotations:jar:0.5.0</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/com.univocity:univocity-parsers:jar:2.5.9</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-sketch_2.11:jar:2.3.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.avro:avro-mapred:jar:hadoop2:1.7.7</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.avro:avro-mapred:jar:hadoop2:1.7.7/org.apache.avro:avro-ipc:jar:1.7.7</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.avro:avro-mapred:jar:hadoop2:1.7.7/org.apache.avro:avro-ipc:jar:1.7.7/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.avro:avro-mapred:jar:hadoop2:1.7.7/org.apache.avro:avro-ipc:jar:tests:1.7.7</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.avro:avro-mapred:jar:hadoop2:1.7.7/org.apache.avro:avro-ipc:jar:tests:1.7.7/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.avro:avro-mapred:jar:hadoop2:1.7.7/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/com.twitter:chill_2.11:jar:0.8.4</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/com.twitter:chill-java:jar:0.8.4</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.hadoop:hadoop-client:jar:2.6.5</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-launcher_2.11:jar:2.3.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-kvstore_2.11:jar:2.3.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-kvstore_2.11:jar:2.3.2/com.fasterxml.jackson.core:jackson-core:jar:2.6.7</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-kvstore_2.11:jar:2.3.2/com.fasterxml.jackson.core:jackson-annotations:jar:2.6.7</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-network-common_2.11:jar:2.3.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-network-common_2.11:jar:2.3.2/io.netty:netty-all:jar:4.1.17.Final</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-network-common_2.11:jar:2.3.2/org.apache.commons:commons-lang3:jar:3.5</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-network-common_2.11:jar:2.3.2/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.1</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-network-common_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-core:jar:3.1.5</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-network-common_2.11:jar:2.3.2/com.google.code.findbugs:jsr305:jar:1.3.9</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-network-shuffle_2.11:jar:2.3.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-network-shuffle_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-core:jar:3.1.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-unsafe_2.11:jar:2.3.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-unsafe_2.11:jar:2.3.2/com.google.code.findbugs:jsr305:jar:3.0.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/net.java.dev.jets3t:jets3t:jar:0.9.4</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.curator:curator-recipes:jar:2.6.0</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/javax.servlet:javax.servlet-api:jar:3.1.0</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.commons:commons-lang3:jar:3.6</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.commons:commons-math3:jar:3.4.1</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/com.google.code.findbugs:jsr305:jar:3.0.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.slf4j:slf4j-api:jar:1.7.16</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.slf4j:jul-to-slf4j:jar:1.7.16</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.slf4j:jul-to-slf4j:jar:1.7.16/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.slf4j:jcl-over-slf4j:jar:1.7.16</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.slf4j:jcl-over-slf4j:jar:1.7.16/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.slf4j:slf4j-log4j12:jar:1.7.16</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/com.ning:compress-lzf:jar:1.0.3</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.xerial.snappy:snappy-java:jar:1.1.2.6</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.lz4:lz4-java:jar:1.4.0</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/com.github.luben:zstd-jni:jar:1.3.2-2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.roaringbitmap:RoaringBitmap:jar:0.5.11</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/commons-net:commons-net:jar:2.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.scala-lang:scala-library:jar:2.11.8</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.scala-lang:scala-library:jar:2.11.0</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.scala-lang:scala-library:jar:2.11.8</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.json4s:json4s-ast_2.11:jar:3.2.11</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.json4s:json4s-ast_2.11:jar:3.2.11/org.scala-lang:scala-library:jar:2.11.8</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/com.thoughtworks.paranamer:paranamer:jar:2.6</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.scala-lang:scalap:jar:2.11.0</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.scala-lang:scalap:jar:2.11.0/org.scala-lang:scala-compiler:jar:2.11.0</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.scala-lang:scalap:jar:2.11.0/org.scala-lang:scala-compiler:jar:2.11.0/org.scala-lang:scala-library:jar:2.11.8</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.scala-lang:scalap:jar:2.11.0/org.scala-lang:scala-compiler:jar:2.11.0/org.scala-lang:scala-reflect:jar:2.11.0</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.scala-lang:scalap:jar:2.11.0/org.scala-lang:scala-compiler:jar:2.11.0/org.scala-lang.modules:scala-xml_2.11:jar:1.0.1</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.scala-lang:scalap:jar:2.11.0/org.scala-lang:scala-compiler:jar:2.11.0/org.scala-lang.modules:scala-xml_2.11:jar:1.0.1/org.scala-lang:scala-library:jar:2.11.8</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.scala-lang:scalap:jar:2.11.0/org.scala-lang:scala-compiler:jar:2.11.0/org.scala-lang.modules:scala-parser-combinators_2.11:jar:1.0.1</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/com.fasterxml.jackson.core:jackson-databind:jar:2.3.1</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-client:jar:2.22.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-client:jar:2.22.2/javax.ws.rs:javax.ws.rs-api:jar:2.0.1</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-client:jar:2.22.2/org.glassfish.hk2:hk2-api:jar:2.4.0-b34</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-client:jar:2.22.2/org.glassfish.hk2:hk2-api:jar:2.4.0-b34/org.glassfish.hk2:hk2-utils:jar:2.4.0-b34</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-client:jar:2.22.2/org.glassfish.hk2:hk2-api:jar:2.4.0-b34/org.glassfish.hk2.external:aopalliance-repackaged:jar:2.4.0-b34</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-client:jar:2.22.2/org.glassfish.hk2.external:javax.inject:jar:2.4.0-b34</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-client:jar:2.22.2/org.glassfish.hk2:hk2-locator:jar:2.4.0-b34</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-client:jar:2.22.2/org.glassfish.hk2:hk2-locator:jar:2.4.0-b34/org.javassist:javassist:jar:3.18.1-GA</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-common:jar:2.22.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-common:jar:2.22.2/javax.annotation:javax.annotation-api:jar:1.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-common:jar:2.22.2/org.glassfish.jersey.bundles.repackaged:jersey-guava:jar:2.22.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-common:jar:2.22.2/org.glassfish.hk2:osgi-resource-locator:jar:1.0.1</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-server:jar:2.22.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-server:jar:2.22.2/org.glassfish.jersey.media:jersey-media-jaxb:jar:2.22.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-server:jar:2.22.2/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.containers:jersey-container-servlet:jar:2.22.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.22.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/io.netty:netty-all:jar:4.1.8.Final</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/io.netty:netty:jar:3.9.9.Final</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/com.clearspring.analytics:stream:jar:2.7.0</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-core:jar:3.1.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-jvm:jar:3.1.5</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-jvm:jar:3.1.5/io.dropwizard.metrics:metrics-core:jar:3.1.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-jvm:jar:3.1.5/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-json:jar:3.1.5</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-json:jar:3.1.5/io.dropwizard.metrics:metrics-core:jar:3.1.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-json:jar:3.1.5/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-json:jar:3.1.5/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-graphite:jar:3.1.5</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-graphite:jar:3.1.5/io.dropwizard.metrics:metrics-core:jar:3.1.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-graphite:jar:3.1.5/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/com.fasterxml.jackson.module:jackson-module-scala_2.11:jar:2.6.7.1</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/com.fasterxml.jackson.module:jackson-module-scala_2.11:jar:2.6.7.1/com.fasterxml.jackson.core:jackson-core:jar:2.9.1</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/com.fasterxml.jackson.module:jackson-module-scala_2.11:jar:2.6.7.1/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.1</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/com.fasterxml.jackson.module:jackson-module-scala_2.11:jar:2.6.7.1/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/com.fasterxml.jackson.module:jackson-module-scala_2.11:jar:2.6.7.1/com.fasterxml.jackson.module:jackson-module-paranamer:jar:2.7.9</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.ivy:ivy:jar:2.4.0</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/oro:oro:jar:2.0.8</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/net.razorvine:pyrolite:jar:4.13</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-core_2.11:jar:2.3.2/net.sf.py4j:py4j:jar:0.10.7</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-catalyst_2.11:jar:2.3.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-catalyst_2.11:jar:2.3.2/org.scala-lang:scala-reflect:jar:2.11.8</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-catalyst_2.11:jar:2.3.2/org.scala-lang.modules:scala-parser-combinators_2.11:jar:1.0.4</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-catalyst_2.11:jar:2.3.2/org.scala-lang.modules:scala-parser-combinators_2.11:jar:1.0.4/org.scala-lang:scala-library:jar:2.11.6</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-catalyst_2.11:jar:2.3.2/org.codehaus.janino:janino:jar:3.0.8</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-catalyst_2.11:jar:2.3.2/org.codehaus.janino:commons-compiler:jar:3.0.8</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-catalyst_2.11:jar:2.3.2/org.antlr:antlr4-runtime:jar:4.7</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-catalyst_2.11:jar:2.3.2/commons-codec:commons-codec:jar:1.9</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.spark:spark-tags_2.11:jar:2.3.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.orc:orc-core:jar:nohive:1.4.4</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.orc:orc-core:jar:nohive:1.4.4/io.airlift:aircompressor:jar:0.8</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.orc:orc-core:jar:nohive:1.4.4/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.orc:orc-mapreduce:jar:nohive:1.4.4</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.orc:orc-mapreduce:jar:nohive:1.4.4/com.esotericsoftware:kryo-shaded:jar:3.0.3</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.orc:orc-mapreduce:jar:nohive:1.4.4/com.esotericsoftware:kryo-shaded:jar:3.0.3/com.esotericsoftware:minlog:jar:1.3.0</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.orc:orc-mapreduce:jar:nohive:1.4.4/com.esotericsoftware:kryo-shaded:jar:3.0.3/org.objenesis:objenesis:jar:2.1</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.orc:orc-mapreduce:jar:nohive:1.4.4/commons-codec:commons-codec:jar:1.9</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.parquet:parquet-column:jar:1.8.3</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.parquet:parquet-column:jar:1.8.3/org.apache.parquet:parquet-common:jar:1.8.3</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.parquet:parquet-column:jar:1.8.3/org.apache.parquet:parquet-common:jar:1.8.3/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.parquet:parquet-column:jar:1.8.3/org.apache.parquet:parquet-encoding:jar:1.8.3</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.parquet:parquet-column:jar:1.8.3/org.apache.parquet:parquet-encoding:jar:1.8.3/commons-codec:commons-codec:jar:1.5</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.parquet:parquet-column:jar:1.8.3/commons-codec:commons-codec:jar:1.9</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.parquet:parquet-hadoop:jar:1.8.3</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.parquet:parquet-hadoop:jar:1.8.3/org.apache.parquet:parquet-format:jar:2.3.1</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.parquet:parquet-hadoop:jar:1.8.3/org.apache.parquet:parquet-jackson:jar:1.8.3</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.parquet:parquet-hadoop:jar:1.8.3/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.11</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.parquet:parquet-hadoop:jar:1.8.3/org.codehaus.jackson:jackson-core-asl:jar:1.9.11</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.parquet:parquet-hadoop:jar:1.8.3/org.xerial.snappy:snappy-java:jar:1.1.1.6</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7.1</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7.1/com.fasterxml.jackson.core:jackson-annotations:jar:2.6.0</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7.1/com.fasterxml.jackson.core:jackson-core:jar:2.9.1</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.arrow:arrow-vector:jar:0.8.0</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.arrow:arrow-vector:jar:0.8.0/org.apache.arrow:arrow-format:jar:0.8.0</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.arrow:arrow-vector:jar:0.8.0/org.apache.arrow:arrow-memory:jar:0.8.0</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.arrow:arrow-vector:jar:0.8.0/org.apache.arrow:arrow-memory:jar:0.8.0/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.arrow:arrow-vector:jar:0.8.0/joda-time:joda-time:jar:2.9.9</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.arrow:arrow-vector:jar:0.8.0/com.fasterxml.jackson.core:jackson-core:jar:2.7.9</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.arrow:arrow-vector:jar:0.8.0/com.carrotsearch:hppc:jar:0.7.2</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.arrow:arrow-vector:jar:0.8.0/commons-codec:commons-codec:jar:1.9</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.arrow:arrow-vector:jar:0.8.0/com.vlkan:flatbuffers:jar:1.2.0-3f79e055</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.arrow:arrow-vector:jar:0.8.0/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.apache.xbean:xbean-asm5-shaded:jar:4.4</node>
+            <node x="" y="">org.apache.spark:spark-sql_2.11:jar:2.3.2/org.spark-project.spark:unused:jar:1.0.0</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.avro:avro-mapred:jar:hadoop2:1.7.7</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.avro:avro-mapred:jar:hadoop2:1.7.7/org.apache.avro:avro-ipc:jar:1.7.7</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.avro:avro-mapred:jar:hadoop2:1.7.7/org.apache.avro:avro-ipc:jar:1.7.7/org.slf4j:slf4j-api:jar:1.7.16</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.avro:avro-mapred:jar:hadoop2:1.7.7/org.apache.avro:avro-ipc:jar:tests:1.7.7</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.avro:avro-mapred:jar:hadoop2:1.7.7/org.apache.avro:avro-ipc:jar:tests:1.7.7/org.slf4j:slf4j-api:jar:1.7.16</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.avro:avro-mapred:jar:hadoop2:1.7.7/org.slf4j:slf4j-api:jar:1.7.16</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/com.twitter:chill_2.11:jar:0.8.4</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/com.twitter:chill-java:jar:0.8.4</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.hadoop:hadoop-client:jar:2.6.5</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-launcher_2.11:jar:2.3.2</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-kvstore_2.11:jar:2.3.2</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-kvstore_2.11:jar:2.3.2/org.fusesource.leveldbjni:leveldbjni-all:jar:1.8</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-kvstore_2.11:jar:2.3.2/com.fasterxml.jackson.core:jackson-core:jar:2.9.1</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-kvstore_2.11:jar:2.3.2/com.fasterxml.jackson.core:jackson-annotations:jar:2.6.7</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-network-common_2.11:jar:2.3.2</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-network-common_2.11:jar:2.3.2/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.1</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-network-shuffle_2.11:jar:2.3.2</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.spark:spark-unsafe_2.11:jar:2.3.2</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/net.java.dev.jets3t:jets3t:jar:0.9.4</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/net.java.dev.jets3t:jets3t:jar:0.9.4/org.apache.httpcomponents:httpcore:jar:4.4.1</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/net.java.dev.jets3t:jets3t:jar:0.9.4/org.apache.httpcomponents:httpclient:jar:4.5</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/net.java.dev.jets3t:jets3t:jar:0.9.4/commons-codec:commons-codec:jar:1.8</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/net.java.dev.jets3t:jets3t:jar:0.9.4/javax.activation:activation:jar:1.1.1</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/net.java.dev.jets3t:jets3t:jar:0.9.4/org.bouncycastle:bcprov-jdk15on:jar:1.52</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/net.java.dev.jets3t:jets3t:jar:0.9.4/com.jamesmurty.utils:java-xmlbuilder:jar:1.1</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/net.java.dev.jets3t:jets3t:jar:0.9.4/com.jamesmurty.utils:java-xmlbuilder:jar:1.1/net.iharder:base64:jar:2.3.8</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.curator:curator-recipes:jar:2.6.0</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.curator:curator-recipes:jar:2.6.0/org.apache.curator:curator-framework:jar:2.6.0</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.curator:curator-recipes:jar:2.6.0/org.apache.zookeeper:zookeeper:jar:3.4.10</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.curator:curator-recipes:jar:2.6.0/com.google.guava:guava:jar:12.0.1</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/javax.servlet:javax.servlet-api:jar:3.1.0</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.commons:commons-lang3:jar:3.5</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.commons:commons-math3:jar:3.4.1</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/com.google.code.findbugs:jsr305:jar:1.3.9</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.slf4j:slf4j-api:jar:1.7.16</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.slf4j:jul-to-slf4j:jar:1.7.16</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.slf4j:jcl-over-slf4j:jar:1.7.16</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/log4j:log4j:jar:1.2.17</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.slf4j:slf4j-log4j12:jar:1.7.16</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/com.ning:compress-lzf:jar:1.0.3</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.xerial.snappy:snappy-java:jar:1.1.2.6</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.lz4:lz4-java:jar:1.4.0</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/com.github.luben:zstd-jni:jar:1.3.2-2</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.roaringbitmap:RoaringBitmap:jar:0.5.11</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/commons-net:commons-net:jar:2.2</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.scala-lang:scala-library:jar:2.11.8</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.scala-lang:scala-library:jar:2.11.0</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.scala-lang:scala-library:jar:2.11.8</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.json4s:json4s-ast_2.11:jar:3.2.11</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.json4s:json4s-ast_2.11:jar:3.2.11/org.scala-lang:scala-library:jar:2.11.8</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/com.thoughtworks.paranamer:paranamer:jar:2.6</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.scala-lang:scalap:jar:2.11.0</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.scala-lang:scalap:jar:2.11.0/org.scala-lang:scala-compiler:jar:2.11.0</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.scala-lang:scalap:jar:2.11.0/org.scala-lang:scala-compiler:jar:2.11.0/org.scala-lang:scala-library:jar:2.11.8</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.scala-lang:scalap:jar:2.11.0/org.scala-lang:scala-compiler:jar:2.11.0/org.scala-lang:scala-reflect:jar:2.11.0</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.scala-lang:scalap:jar:2.11.0/org.scala-lang:scala-compiler:jar:2.11.0/org.scala-lang.modules:scala-xml_2.11:jar:1.0.1</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.scala-lang:scalap:jar:2.11.0/org.scala-lang:scala-compiler:jar:2.11.0/org.scala-lang.modules:scala-xml_2.11:jar:1.0.1/org.scala-lang:scala-library:jar:2.11.8</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/org.json4s:json4s-core_2.11:jar:3.2.11/org.scala-lang:scalap:jar:2.11.0/org.scala-lang:scala-compiler:jar:2.11.0/org.scala-lang.modules:scala-parser-combinators_2.11:jar:1.0.1</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.json4s:json4s-jackson_2.11:jar:3.2.11/com.fasterxml.jackson.core:jackson-databind:jar:2.3.1</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-client:jar:2.22.2</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-client:jar:2.22.2/javax.ws.rs:javax.ws.rs-api:jar:2.0.1</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-client:jar:2.22.2/org.glassfish.hk2:hk2-api:jar:2.4.0-b34</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-client:jar:2.22.2/org.glassfish.hk2:hk2-api:jar:2.4.0-b34/org.glassfish.hk2:hk2-utils:jar:2.4.0-b34</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-client:jar:2.22.2/org.glassfish.hk2:hk2-api:jar:2.4.0-b34/org.glassfish.hk2.external:aopalliance-repackaged:jar:2.4.0-b34</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-client:jar:2.22.2/org.glassfish.hk2.external:javax.inject:jar:2.4.0-b34</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-client:jar:2.22.2/org.glassfish.hk2:hk2-locator:jar:2.4.0-b34</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-client:jar:2.22.2/org.glassfish.hk2:hk2-locator:jar:2.4.0-b34/org.javassist:javassist:jar:3.18.1-GA</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-common:jar:2.22.2</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-common:jar:2.22.2/javax.annotation:javax.annotation-api:jar:1.2</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-common:jar:2.22.2/org.glassfish.jersey.bundles.repackaged:jersey-guava:jar:2.22.2</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-common:jar:2.22.2/org.glassfish.hk2:osgi-resource-locator:jar:1.0.1</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-server:jar:2.22.2</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-server:jar:2.22.2/org.glassfish.jersey.media:jersey-media-jaxb:jar:2.22.2</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.core:jersey-server:jar:2.22.2/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.containers:jersey-container-servlet:jar:2.22.2</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.22.2</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/io.netty:netty-all:jar:4.1.17.Final</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/io.netty:netty:jar:3.9.9.Final</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/com.clearspring.analytics:stream:jar:2.7.0</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-core:jar:3.1.5</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-core:jar:3.1.5/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-jvm:jar:3.1.5</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-jvm:jar:3.1.5/org.slf4j:slf4j-api:jar:1.7.16</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-json:jar:3.1.5</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-json:jar:3.1.5/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-json:jar:3.1.5/org.slf4j:slf4j-api:jar:1.7.16</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-graphite:jar:3.1.5</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/io.dropwizard.metrics:metrics-graphite:jar:3.1.5/org.slf4j:slf4j-api:jar:1.7.16</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/com.fasterxml.jackson.module:jackson-module-scala_2.11:jar:2.6.7.1</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/com.fasterxml.jackson.module:jackson-module-scala_2.11:jar:2.6.7.1/com.fasterxml.jackson.core:jackson-core:jar:2.9.1</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/com.fasterxml.jackson.module:jackson-module-scala_2.11:jar:2.6.7.1/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.1</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/com.fasterxml.jackson.module:jackson-module-scala_2.11:jar:2.6.7.1/com.fasterxml.jackson.core:jackson-databind:jar:2.6.7</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/com.fasterxml.jackson.module:jackson-module-scala_2.11:jar:2.6.7.1/com.fasterxml.jackson.module:jackson-module-paranamer:jar:2.7.9</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.ivy:ivy:jar:2.4.0</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/oro:oro:jar:2.0.8</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/net.razorvine:pyrolite:jar:4.13</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/net.sf.py4j:py4j:jar:0.10.7</node>
+            <node x="" y="">org.apache.spark:spark-core_2.11:jar:2.3.2/org.apache.commons:commons-crypto:jar:1.0.0</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.013320329543412982" x="19472.0" y="2190.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hbase-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/hortonworks/shc-core/1.1.3-2.3-s_2.11/shc-core-1.1.3-2.3-s_2.11.jar!/org/apache/spark/sql/execution/datasources/hbase/RowKey.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/hortonworks/shc-core/1.1.3-2.3-s_2.11/shc-core-1.1.3-2.3-s_2.11.jar!/org/apache/spark/sql/execution/datasources/hbase/SchemaMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/hortonworks/shc-core/1.1.3-2.3-s_2.11/shc-core-1.1.3-2.3-s_2.11.jar!/org/apache/spark/sql/execution/datasources/hbase/Field.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.2.0/spark-sql_2.11-2.2.0.jar!/org/apache/spark/sql/DataFrameReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/info/theswamp/bigtable/SalesCountBigTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="39" column="59" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/info/theswamp/bigtable/SDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/info/theswamp/bigtable/ReadBT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="36" column="56" lean-forward="true" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.2.0/spark-sql_2.11-2.2.0.jar!/org/apache/spark/sql/Column.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.2.0/spark-sql_2.11-2.2.0.jar!/org/apache/spark/sql/Dataset.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="80" column="6" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/hortonworks/shc-core/1.1.3-2.3-s_2.11/shc-core-1.1.3-2.3-s_2.11.jar!/org/apache/spark/sql/execution/datasources/hbase/HBaseTableCatalog.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/info/theswamp/bigtable/ReadBTAggregate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
